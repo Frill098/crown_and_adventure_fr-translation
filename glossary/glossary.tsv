@@ -1,0 +1,794 @@
+english	french	categorie	note
+Demonspawn	Engeance démoniaque	peuple	race hostile ; adj. « démoniaque » ; pl. inchangé (« les Engeances démoniaques » si besoin)
+Demonspawn Level	Niveau de l'Engeance démoniaque	mecanique	
+Spitespawn	Engeance rancunière	peuple	
+Blazespawn	Engeance ardente	peuple	
+Grimspawn	Engeance sinistre	peuple	
+Chen-Yuan	Chen-Yuan	lieu	nom romanisé : ne pas traduire
+Zhao-Yang	Zhao-Yang	lieu	nom romanisé
+Zhao-Lin	Zhao-Lin	lieu	nom romanisé
+Bei-Ting	Bei-Ting	lieu	aussi écrit Beiting dans la source : garder Bei-Ting
+Beiting	Bei-Ting	lieu	harmoniser avec Bei-Ting
+Sasin	Sasin	peuple	
+Clem	Clem	lieu	
+Clemend	Clemend	lieu	
+Caucaid	Caucaid	lieu	
+Caucaidian	Caucaidien	peuple	fém. Caucaidienne ; adj. caucaidien
+Caucaidians	Caucaidiens	peuple	
+Libraland	Libralande	lieu	
+Libra	Libra	lieu	
+Redpineland	Terre des Pins Rouges	lieu	
+Springland	Terre du Printemps	lieu	
+Steelland	Terre d'Acier	lieu	
+Burningland	Terre Ardente	lieu	
+Lundland	Lundlande	lieu	
+Lundnia	Lundnia	lieu	
+Lundnia Manor	Manoir de Lundnia	lieu	
+Lunaland	Lunalande	lieu	
+Sharkland	Terre des Requins	lieu	
+Sharkland Pirate	Pirate de la Terre des Requins	personnage	
+Blissland	Terre de Félicité	lieu	
+Tidelands	Terres des Marées	lieu	
+Osoron	Osoron	lieu	
+Fucius	Fucius	personnage	
+Villenburg	Villenburg	lieu	
+Springen	Springen	lieu	
+Zhe-Jing Division	Division Zhe-Jing	faction	
+Zhe-Jing Division's	de la Division Zhe-Jing	faction	
+White River City	Cité de la Rivière Blanche	lieu	
+White River	Rivière Blanche	lieu	
+Fort of Justice	Fort de la Justice	lieu	
+Peakmount City	Cité de Hautcime	lieu	
+Luan City	Cité de Luan	lieu	
+Loong City	Cité de Loong	lieu	
+Dragon City	Cité du Dragon	lieu	
+Longcheng	Longcheng	lieu	
+Ji-Dong	Ji-Dong	lieu	
+Ji-Dong City	Cité de Ji-Dong	lieu	
+Corona City	Cité de Corona	lieu	
+Cang-Hu	Cang-Hu	lieu	
+Cang-Hu City	Cité de Cang-Hu	lieu	
+Yun-Shu	Yun-Shu	lieu	
+Yue-Gu	Yue-Gu	lieu	
+Wu-Wei	Wu-Wei	lieu	
+Protectorate	Protectorat	faction	
+Protectorate of Wu-Wei	Protectorat de Wu-Wei	faction	
+Ning-Shuo	Ning-Shuo	lieu	aussi Ningshuo : garder Ning-Shuo
+Ningshuo	Ning-Shuo	lieu	
+Nan-Xi	Nan-Xi	lieu	
+Le-Chuan	Le-Chuan	lieu	
+Wang-Gui	Wang-Gui	lieu	
+Ding-Xi	Ding-Xi	lieu	
+Xi-Huang	Xi-Huang	lieu	
+Duan-Yun	Duan-Yun	lieu	
+Qiong-Qi	Qiong-Qi	autre	bête mythique
+Lao-Chen	Lao-Chen	lieu	
+Tian-Shi	Tian-Shi	lieu	
+Hong-Yi College	Collège Hong-Yi	faction	
+Norsnord College	Collège de Norsnord	faction	
+Pestle College	Collège du Pilon	faction	
+College	Collège	faction	
+Jiao-Loong Gang	Gang Jiao-Loong	faction	
+Jiao-Long Gang	Gang Jiao-Loong	faction	variante orthographique : harmoniser
+Kun-Loong Gang	Gang Kun-Loong	faction	
+Dragon Gang	Gang du Dragon	faction	
+Rust Gang	Gang de la Rouille	faction	
+Tian-Jian Sect	Secte Tian-Jian	faction	
+Huang-Quan Sect	Secte Huang-Quan	faction	
+Jing-Hong Sect	Secte Jing-Hong	faction	
+Tian-Shi Sect	Secte Tian-Shi	faction	
+Gui-Gu Sect	Secte Gui-Gu	faction	
+Dang-Yang Sect	Secte Dang-Yang	faction	
+Jiu-Gui Sect	Secte Jiu-Gui	faction	
+Sect Leader	Chef de secte	titre	
+Cheng-Hai Agency	Agence Cheng-Hai	faction	
+Cheng-Hai Escort Agency	Agence d'escorte Cheng-Hai	faction	
+Wei-Yuan Agency	Agence Wei-Yuan	faction	
+Honglu Temple	Temple Honglu	faction	
+Tian-Qing Temple	Temple Tian-Qing	lieu	
+Imperial Clan Court	Cour du Clan impérial	faction	
+Eternal Court	Cour éternelle	faction	
+North Court	Cour du Nord	faction	
+Northern Court	Cour du Nord	faction	
+Court	Cour	autre	
+Iron Ember Congregation	Congrégation de la Braise de fer	faction	
+Cycle Congregation	Congrégation du Cycle	faction	
+Circle of Calamity	Cercle de la Calamité	faction	
+Chamber of Rising Sun	Chambre du Soleil Levant	faction	
+Parliament of Stone Step	Parlement de la Marche de pierre	faction	
+Parliament	Parlement	faction	
+Furnace Foundry Guild	Guilde de la Fonderie-Fournaise	faction	
+Torch Carrier Merchants	Marchands Porte-Flambeau	faction	
+Chi-Tong Merchants	Marchands Chi-Tong	faction	
+Jin-Chuan Merchants	Marchands Jin-Chuan	faction	
+Soultrade Merchants	Marchands d'âmes	faction	
+War Guild	Guilde de la Guerre	faction	
+Hummingbird Guild	Guilde du Colibri	faction	
+Guild	Guilde	faction	
+Arcane Society	Société des Arcanes	faction	
+Spirit Prayer Society	Société de la Prière des Esprits	faction	
+Balance Association	Association de l'Équilibre	faction	
+Zhangwu League	Ligue Zhangwu	faction	
+Organization	Organisation	mecanique	cf. ui_terms
+Rebel Army	Armée rebelle	faction	
+Rebel Camp	Camp rebelle	lieu	
+Liu-Yun Army	Armée Liu-Yun	faction	
+An-Guan Cavalry	Cavalerie An-Guan	faction	
+Sanor Battalion	Bataillon de Sanor	faction	
+Ushak Legion	Légion d'Ushak	faction	
+Moltenblood Legion	Légion du Sang-Fondu	faction	
+Entwin Brigade	Brigade Entwin	faction	
+Sunflower Troupe	Troupe du Tournesol	faction	
+Winterfall Choir	Chœur de la Chute-d'Hiver	faction	
+Seven Blades	Sept Lames	faction	
+Grey Guard	Garde grise	faction	
+Hawlcrow Clan	Clan Hawlcrow	faction	
+Du Clan	Clan Du	faction	
+Whisper Cult	Culte du Murmure	faction	
+Whisper Cultist	Cultiste du Murmure	personnage	
+Whisper Cultists	Cultistes du Murmure	personnage	
+Whisper Believer	Fidèle du Murmure	personnage	
+Blood River Cult	Culte du Fleuve de Sang	faction	
+Qianyue Cult	Culte de Qianyue	faction	
+Sin's Seeker	Chercheurs du Péché	faction	culte
+Bloodfin Fleet	Flotte Nageoire-de-Sang	faction	
+Grave Scorpion	Scorpion des Tombes	faction	assassins de Bato
+Skullhunter	Chasseur de crânes	personnage	
+Skullhunters	Chasseurs de crânes	personnage	
+Rabbit Laili	Laili le Lapin	personnage	
+House Belning	Maison Belning	faction	
+Belning	Belning	faction	« les Belning » (invariable)
+House Raven	Maison Raven	faction	
+Raven	Raven	personnage	nom de famille
+House Campbell	Maison Campbell	faction	
+Campbell	Campbell	faction	
+Campbells	Campbell	faction	« les Campbell » (invariable)
+House Spring	Maison Spring	faction	
+House Bianchi	Maison Bianchi	faction	
+Bianchi	Bianchi	faction	
+House Aurelian	Maison Aurelian	faction	
+Aurelian	Aurelian	faction	
+House Piero	Maison Piero	faction	
+Piero	Piero	faction	
+House Pavia	Maison Pavia	faction	
+House Corndy	Maison Corndy	faction	
+House Ilich	Maison Ilich	faction	
+House Hellason	Maison Hellason	faction	
+Hellason	Hellason	faction	
+House Hawson	Maison Hawson	faction	
+Family	Clan	mecanique	cf. ui_terms
+Families	Clans	mecanique	
+Nation	Royaume	mecanique	cf. ui_terms (Nation → Royaume)
+Nations	Royaumes	mecanique	
+Legion	Légion	mecanique	cf. ui_terms
+Legions	Légions	mecanique	
+Legion Group	Groupe de légions	mecanique	
+SecLegion	SecLegion	autre	code interne : ne pas traduire
+Viceroy	Gouverneur	titre	cf. ui_terms
+Suzerain	Suzerain	titre	
+Vassal	Clan subordonné	mecanique	cf. ui_terms ; en narration « vassal »
+Ducat	Ducat	objet	monnaie
+Ducats	Ducats	objet	
+Mana	Mana	mecanique	
+Mana Crystal	Cristal de mana	objet	
+Mana Crystals	Cristaux de mana	objet	
+Might	Puissance	mecanique	
+Power	Puissance	mecanique	
+Reputation	Réputation	mecanique	UI : « Points réputation »
+Morale	Moral	mecanique	
+Stability	Opinion pop.	mecanique	cf. ui_terms ; en narration « stabilité »
+Population	Population	mecanique	
+Industry	Industrie	mecanique	
+Diplomacy	Diplomatie	mecanique	
+Leadership	Commandement	mecanique	
+Hero	Héros	mecanique	
+Heroes	Héros	mecanique	
+Trait	Trait	mecanique	
+Skill	Compétence	mecanique	cf. ui_terms
+Ability	Capacité	mecanique	cf. ui_terms
+Level	Niveau	mecanique	
+Tier	Rang	mecanique	
+Mission	Quête	mecanique	cf. ui_terms
+Complete Mission	Terminer la quête	mecanique	
+Relation	Relation	mecanique	
+Improve the Relationship	Améliorer la relation	mecanique	
+Area	Région	mecanique	cf. ui_terms (Current Area → Région actuelle) ; [Area] variable à ne pas traduire
+Province	Province	mecanique	
+Capital Region	Région de la capitale	lieu	
+City	Ville	mecanique	« City » isolé = Ville ; dans les noms : Cité de...
+Cities	Villes	mecanique	
+CityName	CityName	autre	variable : ne pas traduire
+City Wall	Rempart	mecanique	
+Barrack	Caserne	mecanique	cf. ui_terms
+Tavern	Taverne	mecanique	
+Marketplace	Place du marché	mecanique	
+Facility	Installation	mecanique	
+Facility Status	État de l'installation	mecanique	
+Current Facility Status	État actuel de l'installation	mecanique	
+Equipment Level	Niveau d'équipement	mecanique	
+Equipment Lv	Niv. équipement	mecanique	
+Device Level	Niveau d'appareil	mecanique	
+Collection Efficiency	Efficacité de collecte	mecanique	
+Harvest Rate	Taux de récolte	mecanique	
+Mining Tech	Tech. minière	mecanique	
+Extraction Tech	Tech. d'extraction	mecanique	
+Auto Assistant	Assistant auto	mecanique	
+Goods	Marchandises	mecanique	[Goods] variable à ne pas traduire
+Resources	Ressources	mecanique	
+Materials	Matériaux	mecanique	
+Siege	Siège	mecanique	
+Garrison	Garnison	mecanique	
+Squads	Escouades	mecanique	
+Unit	Unité	mecanique	
+Units	Unités	mecanique	
+Stackable	Empilable	mecanique	
+Item	Objet	mecanique	
+Accessory	Accessoire	mecanique	
+Weapon	Arme	mecanique	
+Melee Weapon	Arme de mêlée	mecanique	
+Armor	Armure	mecanique	
+Boots	Bottes	mecanique	
+Mount	Monture	mecanique	
+Attack	Attaque	mecanique	
+Melee	Mêlée	mecanique	
+Ranged	Distance	mecanique	
+Melee Attack	Attaque de mêlée	mecanique	
+Melee Defence	Défense de mêlée	mecanique	
+Physical Attack	Attaque physique	mecanique	
+Physical Attack Power	Puissance d'attaque physique	mecanique	
+Physical Power	Puissance physique	mecanique	
+Physical Armor	Armure physique	mecanique	
+Physical Piercing	Pénétration physique	mecanique	
+Energy Attack	Attaque énergétique	mecanique	
+Energy Power	Puissance énergétique	mecanique	
+Energy Piercing	Pénétration énergétique	mecanique	
+Energy Resistance	Résistance énergétique	mecanique	
+Range Accuracy	Précision à distance	mecanique	
+Range Block	Blocage à distance	mecanique	
+Attack Interval	Intervalle attaque	mecanique	cf. ui_terms
+Attack Range	Distance attaque	mecanique	cf. ui_terms
+Max Engaging	Quantité ennemis eng.	mecanique	cf. ui_terms
+Movement Speed	Vitesse de déplacement	mecanique	
+Move Speed	Vitesse de déplacement	mecanique	
+Knock Up	Projection	mecanique	
+Knock Back	Repoussement	mecanique	
+Stun	Étourdissement	mecanique	verbe : étourdir
+Stunned	Étourdi	mecanique	
+Bleed	Saignement	mecanique	
+Poison	Poison	mecanique	
+Freeze	Gel	mecanique	
+Dispel	Dissipation	mecanique	
+Immune	Immunisé	mecanique	
+Berserk	Furie	mecanique	
+Blade Storm	Tempête de lames	mecanique	compétence
+Last Stand	Baroud d'honneur	mecanique	compétence
+Charge	Charge	mecanique	
+Rebuke	Blâme	mecanique	commande diplomatique / religion « le Blâme »
+Eulogize	Louange	lieu	région (« Eulogize's regional inscriptions »)
+Promote	Promouvoir	mecanique	
+Recruit	Recruter	mecanique	
+Covenant Chest	Coffre de l'Alliance	objet	
+Mysterious Chest	Coffre mystérieux	objet	
+Ancestral Glory	Gloire ancestrale	mecanique	promotion
+Ancestor's Glory	Gloire ancestrale	mecanique	promotion
+Deity	Divinité	mecanique	
+Gods	Dieux	autre	
+Goddess	Déesse	autre	
+True God	Vrai Dieu	autre	
+Father God	Dieu Père	autre	
+Mad God	Dieu Fou	autre	
+Mad God's	du Dieu Fou	autre	
+God of Tears	Dieu des Larmes	autre	
+Goddess of Qianyue	Déesse de Qianyue	autre	
+Goddess Dew	Déesse Rosée	autre	
+Lady of The Rising	Dame de l'Aube	autre	divinité ; « Children of the Rising » = Enfants de l'Aube
+Lady of The Rising's	de la Dame de l'Aube	autre	
+Rising	l'Aube	autre	culte de la Dame de l'Aube
+Sole Master	Maître Unique	autre	
+Silverlight	Lumière d'argent	autre	
+May the Silverlight	Que la Lumière d'argent	autre	formule de salutation
+Believer	Fidèle	autre	
+Believers	Fidèles	autre	
+Sins	Péchés	autre	« The Sins »
+Watcher	Guetteur	autre	
+Violet Eye	Œil Violet	autre	
+Fairy	Fée	peuple	
+Holy Elves	Hauts-Elfes sacrés	peuple	
+Fallen Elves	Elfes déchus	peuple	
+Mountainborn	Nés-des-Monts	peuple	aussi lieu (« at Mountainborn ») : « chez les Nés-des-Monts »
+Highlander	Homme des Hautes-Terres	peuple	pl. Hommes des Hautes-Terres
+Highlanders	Hommes des Hautes-Terres	peuple	
+Mountaineer	Montagnard	peuple	
+Mountaineers	Montagnards	peuple	
+Mankinds	Humains	peuple	
+Human	Humain	peuple	
+Outsider	Étranger	autre	
+Outsiders	Étrangers	autre	
+Immortal	Immortel	peuple	
+Immortals	Immortels	peuple	
+Ascender	Ascendant	titre	
+Demonic Beast	Bête démoniaque	autre	
+Lava Monster	Monstre de lave	autre	
+Husk	Dépouille	autre	
+Ancient Empire	Empire ancien	lieu	
+Ancient Empire's	de l'Empire ancien	lieu	
+Empire	Empire	lieu	
+Huan Dynasty	Dynastie Huan	autre	
+Luan Dynasty	Dynastie Luan	autre	
+Second Dynasty	Deuxième Dynastie	autre	
+Martial Arts World	Monde des arts martiaux	autre	
+Shen-Yun Continent	Continent de Shen-Yun	lieu	
+Outer Ring	Anneau extérieur	lieu	
+Conquest War	Guerre de Conquête	autre	
+Purification Month	Mois de la Purification	autre	
+Judicator	Judicateur	titre	fém. Judicatrice
+Judicators	Judicateurs	titre	
+High Judicator	Haut Judicateur	titre	
+Justiciar	Justicier	titre	
+Inquisitor	Inquisiteur	titre	
+Grand Inquisitor	Grand Inquisiteur	titre	
+High Explainer	Grand Exégète	titre	
+Holy Scion	Saint Héritier	titre	
+Holy Scion's	du Saint Héritier	titre	
+Crime Pardoner	Pardonneur	titre	
+Spire Lord	Seigneur de la Flèche	titre	
+Archduke	Archiduc	titre	
+Duke	Duc	titre	
+Count	Comte	titre	UI « Count » (nombre) = Quantité
+Viscount	Vicomte	titre	
+Baron	Baron	titre	
+Emperor	Empereur	titre	
+King	Roi	titre	
+Queen	Reine	titre	
+Crown Prince	Prince héritier	titre	
+Crown Princess	Princesse héritière	titre	
+Prince of Jun	Prince de Jun	titre	
+His Majesty	Sa Majesté	titre	
+His Majesty's	de Sa Majesté	titre	
+My Lord	Monseigneur	titre	ou « Mon seigneur » selon le registre
+Lord	Seigneur	titre	
+Lady	Dame	titre	devant un nom : Dame Lily
+Madam	Madame	titre	
+Chancellor	Chancelier	titre	
+Minister	Ministre	titre	
+Ministers	Ministres	titre	
+Ministry of Construction	Ministère de la Construction	faction	
+Emissary	Émissaire	titre	
+General	Général	titre	
+Colonel	Colonel	titre	
+Captain	Capitaine	titre	
+Commander	Commandant	titre	
+Sheriff	Shérif	titre	
+Chief	Chef	titre	
+Elder	Ancien	titre	Elder Nash → l'Ancien Nash
+Grand Elder	Grand Ancien	titre	
+Bishop	Évêque	titre	
+High Priest	Grand Prêtre	titre	
+Priest	Prêtre	titre	
+Speaker	Orateur	titre	
+Senior Brother	Frère aîné	titre	condisciple (arts martiaux)
+Senior	Aîné	titre	
+Sifu	Maître	titre	appellation martiale ; garder « Sifu » possible en dialogue
+Master	Maître	titre	
+Young Master	Jeune maître	titre	
+Boss	Patron	titre	Boss Xue → Patron Xue
+Granny	Mémé	titre	
+Vice Instructor	Instructeur adjoint	titre	
+Veteran	Vétéran	titre	
+Thorn King	Roi des Épines	personnage	
+Thorn King's	du Roi des Épines	personnage	
+Thorn Crown	Couronne d'épines	objet	
+King of Slaughter	Roi du Massacre	personnage	
+Greatest King	Plus Grand des Rois	titre	
+Blood Consort	Consort de sang	titre	
+Mountain Crone	Vieille des Montagnes	personnage	
+Old Swordsmaster	Vieux Maître d'armes	personnage	
+Old Coroner	Vieux Coroner	personnage	
+Cawing Crow	Corbeau Croassant	personnage	surnom
+Shadow Sun	Soleil d'Ombre	personnage	
+Voice of Silence	Voix du Silence	personnage	
+Betrayer	Traître	personnage	
+Savior	Sauveur	titre	
+Benefactor	Bienfaiteur	titre	
+Mage	Mage	mecanique	classe
+Mages	Mages	mecanique	
+Magician	Magicien	mecanique	
+Codex Wizard	Sorcier du Codex	mecanique	
+Assassin	Assassin	mecanique	
+Assassins	Assassins	mecanique	
+Ranger	Rôdeur	mecanique	
+Silver Mink Ranger	Rôdeur du Vison d'argent	mecanique	
+Warrior	Guerrier	mecanique	
+Warriors	Guerriers	mecanique	
+Paladin	Paladin	mecanique	
+Rogue	Vaurien	mecanique	
+Marksman	Tireur d'élite	mecanique	
+Cavalry	Cavalerie	mecanique	
+Crossbow	Arbalète	mecanique	
+Scout	Éclaireur	mecanique	
+Diviner	Devin	mecanique	
+Investigator	Enquêteur	mecanique	
+Craftman	Artisan	mecanique	
+Scholar	Érudit	mecanique	
+Scholars	Érudits	mecanique	
+Mercenary	Mercenaire	mecanique	
+Mercenaries	Mercenaires	mecanique	
+Soldier	Soldat	mecanique	
+Soldiers	Soldats	mecanique	
+Guards	Gardes	mecanique	
+Pirate	Pirate	mecanique	
+Bandit	Bandit	mecanique	
+Bandits	Bandits	mecanique	
+Slave	Esclave	mecanique	
+Slaves	Esclaves	mecanique	
+Nobles	Nobles	mecanique	
+Villager	Villageois	mecanique	
+Villagers	Villageois	mecanique	
+Traveler	Voyageur	mecanique	
+Walker	Marcheur	titre	Radiant Walker → Marcheur radieux ; Viscount Walker = nom propre
+Radiant Walker	Marcheur radieux	titre	
+Shadow Walker	Marcheur des ombres	titre	
+Knights	Chevaliers	titre	
+Roar Knight	Chevalier Rugissant	objet	machine de guerre
+War Machine	Machine de guerre	objet	
+Rustbone Machine	Machine Os-Rouillé	objet	
+Rebuke Knight	Chevalier du Blâme	titre	
+Rebuke Knights	Chevaliers du Blâme	titre	
+Swan Knight	Chevalier au Cygne	titre	
+Wildland Knight	Chevalier des Terres sauvages	titre	
+Wildhorse Knight	Chevalier du Cheval sauvage	titre	
+Knights Wildhorse	Chevaliers du Cheval sauvage	faction	
+Knights Valkyrie	Chevaliers Valkyrie	faction	
+Knights Fertileland	Chevaliers de la Terre fertile	faction	
+Knights Meltiron	Chevaliers de la Fonte	faction	
+Blighting Knight	Chevalier de la Flétrissure	titre	
+Codex	Codex	objet	
+Codex of Akzar	Codex d'Akzar	objet	
+Primordial Codex	Codex primordial	objet	
+Codex School	École du Codex	faction	
+Grimoire	Grimoire	objet	
+Ancient Scripture	Écriture ancienne	objet	
+Chronicle of Ages	Chronique des Âges	objet	
+Lost Poem	Poème perdu	objet	
+Stele Rubbing	Estampage de stèle	objet	
+Pattern Wood	Bois veiné	objet	
+Machine Element	Élément mécanique	objet	
+Lazurite	Lazurite	objet	
+Jade	Jade	objet	
+Azure Jade	Jade azur	objet	
+Grey Iron	Fer gris	objet	
+Special Grey Iron Amulet	Amulette spéciale en fer gris	objet	
+Silverdust Silk	Soie de poussière d'argent	objet	
+Raw Gemstone	Gemme brute	objet	
+Lightforged Amber	Ambre forgé de lumière	objet	
+Crystallized Buds	Bourgeons cristallisés	objet	
+Golden Tortoise Sap	Sève de tortue dorée	objet	
+Lake Stone Bracelet	Bracelet en pierre du lac	objet	
+Dreamland Fragment	Fragment du Pays des rêves	objet	
+Alchemical Bomb	Bombe alchimique	objet	
+Vitality Pill	Pilule de vitalité	objet	
+Immortal Pill	Pilule d'immortalité	objet	
+Elixir Pill	Pilule d'élixir	objet	
+Rare Wine	Vin rare	objet	
+Royal Wine	Vin royal	objet	
+Farmhouse Wine	Vin de ferme	objet	
+Dewy Starflower	Fleur-étoile de rosée	objet	
+Winter Jasmine	Jasmin d'hiver	objet	
+Funavi's Autumn	Automne de Funavi	objet	
+Lycoris Radiata	Lycoris Radiata	personnage	nom de code (« la Consort de sang ») ; ne pas traduire
+Lycoris Radiata's	de Lycoris Radiata	personnage	
+Mysterious	Mystérieux	autre	
+Alchemy	Alchimie	mecanique	
+Alchemy Factory	Fabrique alchimique	lieu	
+Factory	Fabrique	lieu	
+Miktor Factory	Fabrique de Miktor	lieu	
+Black Dust Foundry	Fonderie de la Poussière noire	lieu	
+Mage Tower	Tour des mages	lieu	
+Universal Library	Bibliothèque universelle	lieu	
+Cloud Sea Library	Bibliothèque de la Mer de nuages	lieu	
+Silver Shield Academy	Académie du Bouclier d'argent	faction	
+Crime Eliminating Tower	Tour d'Expiation	lieu	
+Monument of Freedom	Monument de la Liberté	lieu	
+Obelisk	Obélisque	lieu	
+Aboriginal Figures	Figures aborigènes	lieu	
+Ruined Temple	Temple en ruine	lieu	
+Abandoned Ruin	Ruine abandonnée	lieu	
+Ancient Battlefield	Ancien champ de bataille	lieu	
+Evgen Ruins	Ruines d'Evgen	lieu	
+Sinner's Former Residence	Ancienne demeure du Pécheur	lieu	
+Bloodboiler Temple	Temple du Sang-Bouillant	lieu	
+Summer Palace	Palais d'Été	lieu	
+Dew Palace	Palais de la Rosée	lieu	
+King's Rest	Repos du Roi	lieu	
+King's Rest Place	Repos du Roi	lieu	
+King's Hands	Mains du Roi	faction	
+Lionfang Fortress	Forteresse Croc-de-Lion	lieu	
+Torch Castle	Château de la Torche	lieu	
+Gery-Sand Castle	Château de Sable-Gris	lieu	
+Wildhorse Castle	Château du Cheval sauvage	lieu	
+Duan-Long Fort	Fort Duan-Long	lieu	
+Cheng-Yuan Fort	Fort Cheng-Yuan	lieu	
+Molten Sand Fort	Fort du Sable fondu	lieu	
+Sharp Stake Fort	Fort du Pieu acéré	lieu	
+Chengyuan Pass	Col de Chengyuan	lieu	
+Xuan-Yu Pass	Col de Xuan-Yu	lieu	
+Jia-Nan Pass	Col de Jia-Nan	lieu	
+Huan-Shui Stronghold	Bastion de Huan-Shui	lieu	
+Dong-Ting Post	Relais de Dong-Ting	lieu	
+Ranger Outpost	Avant-poste des rôdeurs	lieu	
+Outpost	Avant-poste	lieu	
+Bei-Chen Training Ground	Terrain d'entraînement de Bei-Chen	lieu	
+Red Lantern Alley	Ruelle des Lanternes rouges	lieu	
+Dong-Lai Tavern	Taverne Dong-Lai	lieu	
+Jin-Feng Inn	Auberge Jin-Feng	lieu	
+Xia-Sheng Hall	Salle Xia-Sheng	lieu	
+Shi-Xin Pavilion	Pavillon Shi-Xin	lieu	
+Chu's Manor	Manoir des Chu	lieu	
+Du's Manor	Manoir des Du	lieu	
+Laurel Manor	Manoir des Lauriers	lieu	
+Olive Manor	Manoir des Oliviers	lieu	
+Resplendent Manor	Manoir resplendissant	lieu	
+Hu's Village	Village des Hu	lieu	
+Liang-Qiao Village	Village de Liang-Qiao	lieu	
+Ma-Qiao Village	Village de Ma-Qiao	lieu	
+Li-Quan Village	Village de Li-Quan	lieu	
+Aragon Fishing Village	Village de pêcheurs d'Aragon	lieu	
+Luo-Shui Town	Bourg de Luo-Shui	lieu	
+Yang-Qi Town	Bourg de Yang-Qi	lieu	
+Shuang-Lin Town	Bourg de Shuang-Lin	lieu	
+Shi-Yang Town	Bourg de Shi-Yang	lieu	
+Glory Town	Bourg de la Gloire	lieu	
+Cargen Town	Bourg de Cargen	lieu	
+Cuckoo Town	Bourg du Coucou	lieu	
+Alvin Town	Bourg d'Alvin	lieu	
+Litt Port	Port de Litt	lieu	
+Kamara Port	Port de Kamara	lieu	
+Dragon Bridge	Pont du Dragon	lieu	
+Golden Road	Route dorée	lieu	
+Rust Nest	Nid de rouille	lieu	
+Salt Mine	Mine de sel	lieu	
+Mine Cave	Grotte minière	lieu	
+Celestial Stone Mine Cave	Grotte minière de pierre céleste	lieu	
+Tomb	Tombeau	lieu	
+White Desert	Désert blanc	lieu	
+Black Peaks	Pics noirs	lieu	
+Dragon-jaw Mountains	Monts Mâchoire-de-Dragon	lieu	
+Ironbone Mountain	Mont Os-de-Fer	lieu	
+Daros Forest	Forêt de Daros	lieu	
+Torrent Valley	Vallée du Torrent	lieu	
+Miserable Valley	Vallée de la Misère	lieu	
+Clavi Volley	Vallée de Clavi	lieu	coquille de « Clavi Valley »
+Froststar Mirror Lake	Lac-Miroir de l'Étoile de givre	lieu	
+Lake Tatari	Lac Tatari	lieu	
+Crocodile Lake	Lac aux Crocodiles	lieu	
+Floral Plain	Plaine fleurie	lieu	
+Endfield	Champ-du-Bout	lieu	
+Haven	Havre	lieu	
+Freehold	Franc-Fief	lieu	
+Idle Clouds	Nuages oisifs	lieu	
+Dardanelles	Dardanelles	lieu	
+Akzar	Akzar	personnage	
+Aktur	Aktur	lieu	
+Modresa	Modresa	lieu	
+Stirl	Stirl	lieu	
+Selamon	Selamon	lieu	
+Orost	Orost	lieu	
+Sunn	Sunn	lieu	
+Kemina	Kemina	lieu	
+Kurulek	Kurulek	personnage	
+King Kurulek	Roi Kurulek	personnage	
+Koltharvarg	Koltharvarg	lieu	
+Gor Aman	Gor Aman	lieu	
+Bovark	Bovark	lieu	
+Bovark Province	Province de Bovark	lieu	
+Bato	Bato	lieu	
+Saloka	Saloka	lieu	
+Gwana	Gwana	lieu	
+Tonga	Tonga	lieu	
+Ur Sith	Ur Sith	lieu	
+Asdellno	Asdellno	lieu	
+Constitutional Six	Six constitutionnels	autre	
+Molten Catastrophe	Catastrophe du Magma	autre	
+Lucius	Lucius	personnage	
+Zhuge Lyu	Zhuge Lyu	personnage	
+Li Motong	Li Motong	personnage	
+Meng Keran	Meng Keran	personnage	
+Brother Meng	Frère Meng	personnage	
+Senior Brother Meng	Frère aîné Meng	personnage	
+Young Master Meng	Jeune maître Meng	personnage	
+Young Master Du	Jeune maître Du	personnage	
+Xiao Beige	Xiao Beige	personnage	
+Salan Sarn	Salan Sarn	personnage	
+Yu Sheng	Yu Sheng	personnage	
+Xue Baiyi	Xue Baiyi	personnage	
+Rock Tang	Tang le Roc	personnage	surnom
+Ma San	Ma San	personnage	
+Miner Li	Li le Mineur	personnage	
+Cheng Pianzhou	Cheng Pianzhou	personnage	
+Darcy Raven	Darcy Raven	personnage	
+Count Dark Raven	Comte Corbeau Noir	personnage	surnom
+Dark Raven	Corbeau Noir	personnage	
+Le Pen	Le Pen	personnage	
+Yun Ziliu	Yun Ziliu	personnage	
+Old Yue	Vieux Yue	personnage	
+Chief He	Chef He	personnage	
+Sheriff Wang	Shérif Wang	personnage	
+Granny Wang	Mémé Wang	personnage	
+Boss Xue	Patron Xue	personnage	
+Boss Malan	Patron Malan	personnage	
+Commander Xue	Commandant Xue	personnage	
+Commander Hu	Commandant Hu	personnage	
+General Bai	Général Bai	personnage	
+General Chu	Général Chu	personnage	
+General Xue	Général Xue	personnage	
+General Su	Général Su	personnage	
+General Yuchi	Général Yuchi	personnage	
+Colonel Xu	Colonel Xu	personnage	
+Colonel Pei	Colonel Pei	personnage	
+Lord An	Seigneur An	personnage	
+Lord Gao	Seigneur Gao	personnage	
+Lady Lily	Dame Lily	personnage	
+Lady Yu	Dame Yu	personnage	
+Lady Faya Saville	Dame Faya Saville	personnage	
+Miss Vera	Mademoiselle Vera	personnage	
+Miss Gu	Mademoiselle Gu	personnage	
+Miss Cheng	Mademoiselle Cheng	personnage	
+Miss Ning	Mademoiselle Ning	personnage	
+Miss Su Xiu	Mademoiselle Su Xiu	personnage	
+Master Wei	Maître Wei	personnage	
+Master Xiao	Maître Xiao	personnage	
+Swordsman Cui	Cui l'Épéiste	personnage	
+Veteran Qin Gu	Qin Gu le Vétéran	personnage	
+Vice Instructor Li	Instructeur adjoint Li	personnage	
+Elder Nash	Ancien Nash	personnage	
+Bishop Umgard	Évêque Umgard	personnage	
+High Priest Philley	Grand Prêtre Philley	personnage	
+Speaker Orne	Orateur Orne	personnage	
+Baron Cohen	Baron Cohen	personnage	
+Baron Dokeran	Baron Dokeran	personnage	
+Viscount Walker	Vicomte Walker	personnage	
+Queen Theresia	Reine Theresia	personnage	
+Princess Anita	Princesse Anita	personnage	
+Crown Prince Li Yongsheng	Prince héritier Li Yongsheng	personnage	
+Xue's Mother	Mère de Xue	personnage	
+Vera Spring	Vera Spring	personnage	
+Yelika Ilich	Yelika Ilich	personnage	
+Anita Ilich	Anita Ilich	personnage	
+Levi Ilich	Levi Ilich	personnage	
+Lily Fregan	Lily Fregan	personnage	
+Melly Fregan	Melly Fregan	personnage	
+Liz Barbarossa	Liz Barbarossa	personnage	
+Javier Cohen	Javier Cohen	personnage	
+Suss Cohen	Suss Cohen	personnage	
+Kelly Leland	Kelly Leland	personnage	
+Neil Hellason	Neil Hellason	personnage	
+Hazar Suleiman	Hazar Suleiman	personnage	
+Parren Wahat	Parren Wahat	personnage	
+Lisa Nash	Lisa Nash	personnage	
+Corey Shaw	Corey Shaw	personnage	
+Gu Jiu	Gu Jiu	personnage	
+Chu Xunjiang	Chu Xunjiang	personnage	
+Bu Xuanji	Bu Xuanji	personnage	
+Gu Qianshan	Gu Qianshan	personnage	
+He Siren	He Siren	personnage	
+Ji Yun	Ji Yun	personnage	
+Xu Zhao	Xu Zhao	personnage	
+Yang Xuzhi	Yang Xuzhi	personnage	
+Xue Wanting	Xue Wanting	personnage	
+Hu Yan	Hu Yan	personnage	
+Bu Liukong	Bu Liukong	personnage	
+Gu Wunian	Gu Wunian	personnage	
+Bai Qiuyu	Bai Qiuyu	personnage	
+Gu Cisheng	Gu Cisheng	personnage	
+Qi Changhai	Qi Changhai	personnage	
+Li Wang	Li Wang	personnage	
+Lu Miao	Lu Miao	personnage	
+Cheng Ye	Cheng Ye	personnage	
+Luo Wenyu	Luo Wenyu	personnage	
+Pei Xingzhong	Pei Xingzhong	personnage	
+Bai Yuanshan	Bai Yuanshan	personnage	
+Su Xiu	Su Xiu	personnage	
+Xue Canxin	Xue Canxin	personnage	
+Wei Wudi	Wei Wudi	personnage	
+Yang Bohai	Yang Bohai	personnage	
+Luo Shanshan	Luo Shanshan	personnage	
+Deng Zhiqiu	Deng Zhiqiu	personnage	
+Gu Tianya	Gu Tianya	personnage	
+Chu Huairou	Chu Huairou	personnage	
+Gao Zuocao	Gao Zuocao	personnage	
+Shuang Yue	Shuang Yue	personnage	
+Hu Tu	Hu Tu	personnage	
+Hou Shangong	Hou Shangong	personnage	
+Chao Feng	Chao Feng	personnage	
+Chu Jingnan	Chu Jingnan	personnage	
+Su Li	Su Li	personnage	
+Wang Jian	Wang Jian	personnage	
+Ni Fanchen	Ni Fanchen	personnage	
+Yuchi An	Yuchi An	personnage	
+Yun Niansheng	Yun Niansheng	personnage	
+Gao Ting	Gao Ting	personnage	
+Yang Tianwang	Yang Tianwang	personnage	
+Xin Mowen	Xin Mowen	personnage	
+Zhou Cheng	Zhou Cheng	personnage	
+Zhao Yunjian	Zhao Yunjian	personnage	
+Zhou Hongjing	Zhou Hongjing	personnage	
+Gu Xinyan	Gu Xinyan	personnage	
+Wei Chen	Wei Chen	personnage	
+Li Yuming	Li Yuming	personnage	
+Li Wentai	Li Wentai	personnage	
+Le Qinghong	Le Qinghong	personnage	
+Liu Si	Liu Si	personnage	
+Ning Wenyue	Ning Wenyue	personnage	
+Li Shouyuan	Li Shouyuan	personnage	
+Cheng Xiaoyan	Cheng Xiaoyan	personnage	
+Zhang Buhui	Zhang Buhui	personnage	
+Guo Zhengang	Guo Zhengang	personnage	
+Luo Yushu	Luo Yushu	personnage	
+Zheng Wu	Zheng Wu	personnage	
+Ge Ping	Ge Ping	personnage	
+Xu Liwei	Xu Liwei	personnage	
+An Min	An Min	personnage	
+Xiao Kong	Xiao Kong	personnage	
+Wu Ze	Wu Ze	personnage	
+Du Chongde	Du Chongde	personnage	
+Li Ye	Li Ye	personnage	
+Caiyi	Caiyi	personnage	
+Silkworm Daoist	Taoïste du Ver à soie	personnage	surnom
+Miria	Miria	personnage	
+Vera	Vera	personnage	
+Leavitt	Leavitt	personnage	
+Anita	Anita	personnage	
+Kris	Kris	personnage	
+Yelika	Yelika	personnage	
+Vaughn	Vaughn	personnage	
+Oriana	Oriana	personnage	
+Berne	Berne	personnage	
+JoJo	JoJo	personnage	
+Stolas	Stolas	personnage	
+Pizarro	Pizarro	personnage	
+Kelly	Kelly	personnage	
+Byron	Byron	personnage	
+Berchmon	Berchmon	personnage	
+Monkos	Monkos	personnage	
+Garcia	Garcia	personnage	
+Lavia	Lavia	personnage	
+Alicia	Alicia	personnage	
+Alette	Alette	personnage	
+Nephthys	Nephthys	personnage	
+Malan	Malan	personnage	
+Glenna	Glenna	personnage	
+Mynan	Mynan	personnage	
+Saya	Saya	personnage	
+Anisa	Anisa	personnage	
+Levi	Levi	personnage	
+Freya	Freya	personnage	
+Salem	Salem	personnage	
+Elena	Elena	personnage	
+Amon	Amon	personnage	
+Shahmet	Shahmet	personnage	
+Flora	Flora	personnage	
+Theresia	Theresia	personnage	
+Katniss	Katniss	personnage	
+Sagar	Sagar	personnage	
+Fasut	Fasut	personnage	
+Neil	Neil	personnage	
+Helton	Helton	personnage	
+Dokeran	Dokeran	personnage	
+Cohen	Cohen	personnage	
+Camilla	Camilla	personnage	
+Elvin	Elvin	personnage	
+Valendo	Valendo	personnage	
+Mephisto	Mephisto	personnage	
+Kuzos	Kuzos	personnage	
+Cassini	Cassini	personnage	
+Funavi	Funavi	personnage	
+Fedro	Fedro	personnage	
+Hazar	Hazar	personnage	
+Carlos	Carlos	personnage	
+Cynthia	Cynthia	personnage	
+Mordred	Mordred	personnage	
+Selene	Selene	personnage	
+Parren	Parren	personnage	
+Xinyan	Xinyan	personnage	
+Theodore	Theodore	personnage	
+Philley	Philley	personnage	
